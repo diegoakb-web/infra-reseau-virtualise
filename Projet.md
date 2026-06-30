@@ -50,3 +50,10 @@ La principale difficulté a été de centraliser et de relier l'ensemble des ser
 ## Conclusion
 
 Ce projet a permis de mettre en pratique des compétences d'administration systèmes et réseaux dans un environnement proche de la réalité professionnelle, et de mieux comprendre l'articulation entre les différents services d'une infrastructure (annuaire, DNS, DHCP).
+
+## Documents
+
+- 📄 [Rapport de projet](./Rapport%20de%20projet.docx)
+- 📘 [Documentation technique](./Documentation.pdf)
+- 🎥 [Vidéo de démonstration](https://www.youtube.com/watch?v=Hnd-Le4G3Pk)
+
